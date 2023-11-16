@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sentence-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-16T15:29:31.249441+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 64d5227b2ed9d4b725ce083d340ac0da34db049ee2b6701a971d3285d3ddd5a5
+    name: sentence-app
+    type: application
+    urls:
+    - https://toni-petrina.github.io/helm-katas/sentence-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-16T15:29:31.249111+01:00"
